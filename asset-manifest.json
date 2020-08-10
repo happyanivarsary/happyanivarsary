@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/happyAnivarsary/static/css/main.960c9096.chunk.css",
+    "main.js": "/happyAnivarsary/static/js/main.42eda0a6.chunk.js",
+    "main.js.map": "/happyAnivarsary/static/js/main.42eda0a6.chunk.js.map",
+    "runtime-main.js": "/happyAnivarsary/static/js/runtime-main.5f045c37.js",
+    "runtime-main.js.map": "/happyAnivarsary/static/js/runtime-main.5f045c37.js.map",
+    "static/css/2.eb43dee1.chunk.css": "/happyAnivarsary/static/css/2.eb43dee1.chunk.css",
+    "static/js/2.f381903d.chunk.js": "/happyAnivarsary/static/js/2.f381903d.chunk.js",
+    "static/js/2.f381903d.chunk.js.map": "/happyAnivarsary/static/js/2.f381903d.chunk.js.map",
+    "index.html": "/happyAnivarsary/index.html",
+    "precache-manifest.eb8ee1540e7bf79f8cfe1749b059b096.js": "/happyAnivarsary/precache-manifest.eb8ee1540e7bf79f8cfe1749b059b096.js",
+    "service-worker.js": "/happyAnivarsary/service-worker.js",
+    "static/css/2.eb43dee1.chunk.css.map": "/happyAnivarsary/static/css/2.eb43dee1.chunk.css.map",
+    "static/css/main.960c9096.chunk.css.map": "/happyAnivarsary/static/css/main.960c9096.chunk.css.map",
+    "static/js/2.f381903d.chunk.js.LICENSE.txt": "/happyAnivarsary/static/js/2.f381903d.chunk.js.LICENSE.txt",
+    "static/media/backgroundwebpage.jpg": "/happyAnivarsary/static/media/backgroundwebpage.e9cbf7ef.jpg",
+    "static/media/happyimage1.jpg": "/happyAnivarsary/static/media/happyimage1.72d8b30c.jpg",
+    "static/media/happyimage10.jpg": "/happyAnivarsary/static/media/happyimage10.54df3683.jpg",
+    "static/media/happyimage11.jpg": "/happyAnivarsary/static/media/happyimage11.02ae22eb.jpg",
+    "static/media/happyimage2.jpg": "/happyAnivarsary/static/media/happyimage2.9d52a4d9.jpg",
+    "static/media/happyimage3.jpg": "/happyAnivarsary/static/media/happyimage3.98f2d9b3.jpg",
+    "static/media/happyimage4.jpg": "/happyAnivarsary/static/media/happyimage4.3ebad266.jpg",
+    "static/media/happyimage5.jpg": "/happyAnivarsary/static/media/happyimage5.1d5cc4ab.jpg",
+    "static/media/happyimage6.jpg": "/happyAnivarsary/static/media/happyimage6.9bd9ab71.jpg",
+    "static/media/happyimage7.jpg": "/happyAnivarsary/static/media/happyimage7.62056620.jpg",
+    "static/media/happyimage8.jpg": "/happyAnivarsary/static/media/happyimage8.60fa2b86.jpg",
+    "static/media/happyimage9.jpg": "/happyAnivarsary/static/media/happyimage9.2ad98d2a.jpg",
+    "static/media/logo.svg": "/happyAnivarsary/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f045c37.js",
+    "static/css/2.eb43dee1.chunk.css",
+    "static/js/2.f381903d.chunk.js",
+    "static/css/main.960c9096.chunk.css",
+    "static/js/main.42eda0a6.chunk.js"
+  ]
+}
